@@ -2,7 +2,7 @@
 
 #  Algorithms Programming Assignment
 
-#  Author - Puneet Soni & Shubham Rohal
+#  Author - Shubham Rohal & Puneet Soni
 
 import pandas as pd
 import networkx as nx
